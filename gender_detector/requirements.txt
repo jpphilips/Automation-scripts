@@ -5,3 +5,4 @@ progressbar==2.5
 tensorflow==2.4.1
 Keras==2.4.3
 cvlib==0.2.6
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
